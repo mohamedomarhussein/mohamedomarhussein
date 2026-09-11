@@ -11,7 +11,7 @@ I am passionate about building practical technology solutions, solving real-worl
 
 * 🎓 **Bachelor of Science in Computer Science** — Umma University
 * 💻 **Software Engineering Graduate**
-* 🛠️ **IT Support Experience** — ASAL iLab
+* 🛠️ **IT Support Experience** — ASALiLab
 * 🤖 **AI Safari Participant**
 * 📊 **Data Analytics Learner** — PLP
 * 🌱 Continuously developing my skills in software engineering, AI, and data analytics
