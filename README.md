@@ -6,7 +6,6 @@ I am a Computer Science graduate with a strong interest in **Software Engineerin
 
 I enjoy designing and building practical technology solutions that solve real-world problems. I am continuously developing my technical and professional skills through hands-on projects, professional experience, and technology-focused learning.
 
----
 
 ## 👨‍💻 About Me
 
@@ -18,7 +17,6 @@ I enjoy designing and building practical technology solutions that solve real-wo
 - 🌱 Continuously learning and building real-world software solutions
 - 💡 Interested in **Software Engineering, AI, Data Analytics, and Web Development**
 
----
 
 ## 🛠️ Technical Skills
 
@@ -58,7 +56,6 @@ I enjoy designing and building practical technology solutions that solve real-wo
 - 🗄️ Database Systems
 - 🏗️ System Design
 
----
 
 ## 🚀 Featured Projects
 
@@ -87,7 +84,6 @@ A full-stack blood donation management system designed to connect **blood donors
 - 🔐 Role-based access control
 - 📊 Admin management and reporting
 
----
 
 ### 🧠 Student Mental Health & Counselling System
 
@@ -109,7 +105,6 @@ A web-based platform designed to help students access **counselling services and
 - 💬 Student support
 - 📊 Appointment management
 
----
 
 ## 📚 Currently Learning
 
@@ -123,7 +118,6 @@ I am currently expanding my knowledge in:
 - 🗄️ **Database Management**
 - 🔧 **Modern Software Development Practices**
 
----
 
 ## 🎯 Career Goals
 
@@ -133,7 +127,6 @@ I am particularly interested in opportunities involving:
 
 **💻 Software Engineering · 🌐 Web Development · 🤖 Artificial Intelligence · 📊 Data Analytics · 🛠️ IT Support**
 
----
 
 ## 🤝 Let's Connect
 
@@ -145,7 +138,6 @@ I am open to:
 - 🤝 Open-source collaboration
 - 📚 Technology and software engineering communities
 
----
 
 ## ⚡ My Approach
 
