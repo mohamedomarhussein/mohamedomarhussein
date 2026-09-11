@@ -1,4 +1,4 @@
-# Hello, I'm Mohamed Omar
+# Hello, I'm Mohamed Omar Hussein
 
 ### 🎓 Computer Science Graduate | 💻 Software Engineer | 🛠️ IT Support Specialist | 🤖 AI & Data Analytics Enthusiast
 
