@@ -2,10 +2,15 @@
 
 ### 💻 Software Engineer | 🎓 Computer Science Graduate | 🛠️ IT Support Specialist | 🤖 AI & Data Analytics Enthusiast
 
+
 > 🟢 **Open to:** Junior Software Engineer · Web Developer · IT Support roles<br>
+
 > 📍 **Location:** Nairobi, Kenya 🇰🇪 · 🌍 Open to remote<br>
+
 > 📅 **Availability:** Immediate<br>
+
 > 🔄 **Last updated:** November 2026
+
 
 
 I am a Computer Science graduate with a strong interest in **Software Engineering, Web Development, IT Support, Artificial Intelligence, and Data Analytics**.
